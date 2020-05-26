@@ -1,6 +1,7 @@
 # chase-the-pizza ![Build status badge](https://github.com/arelia/chase-the-pizza/workflows/MakeCode/badge.svg)
 
-
+## Assignment
+Update the variable name so that it matches the food sprite image
 
 ## Use this extension
 
