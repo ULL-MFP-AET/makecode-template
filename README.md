@@ -25,7 +25,7 @@ To edit this repository in MakeCode.
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/arelia/chase-the-pizza/raw/master/.makecode/blocks.png)
+![A rendered view of the blocks](https://raw.githubusercontent.com/ULL-MFP-AET/makecode-template/master/.makecode/blocks.png)
 
 ## Supported targets
 
